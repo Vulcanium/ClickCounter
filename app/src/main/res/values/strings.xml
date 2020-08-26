@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Click Counter</string>
+    <string name="nb_clics">Nombre de clics: %d</string>
+    <string name="increment">Incrémenter</string>
+    <string name="stats">Stats</string>
+    <string name="click_stat">Vous avez cliqué %d fois !</string>
+</resources>
